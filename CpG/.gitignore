@@ -1,0 +1,5 @@
+# Données brutes (trop lourdes)
+*.bedGraph.gz
+
+# Fichiers parquet intermédiaires (trop lourds)
+*.parquet

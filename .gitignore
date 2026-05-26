@@ -1,0 +1,20 @@
+# Données brutes (trop lourdes)
+*.bedGraph.gz
+
+# Fichiers parquet intermédiaires (trop lourds)
+*.parquet
+
+# Environnement virtuel
+venv/
+
+# Python
+*.pyc
+__pycache__/
+
+# Fichiers temporaires
+*.log
+.DS_Store
+.Rhistory
+*.gff3
+*.gff
+*.fasta*
